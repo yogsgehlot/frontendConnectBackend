@@ -16,7 +16,7 @@ app.get("/api/records", (req, res) => {
     {
       UID: 4465,
       Name: "Harsh",
-      Address: "Delhi",
+      Address: "South-Delhi",
     },
     {
       UID: 4424,
